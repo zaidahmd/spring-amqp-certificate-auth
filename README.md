@@ -1,3 +1,2 @@
-# spring-amqp-certificate-auth
-
-This project is to show how to perform certificate based client auth in amqp client.
+# spring-boot-amqp-1-0
+Spring boot applicaiton to connect AMQP 1.0 broker using Apache QPID-JMS libraries
